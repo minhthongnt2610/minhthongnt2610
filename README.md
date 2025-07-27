@@ -1,46 +1,45 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://www.facebook.com/pham.tien.son.2004/)
+
 <h1 align="center">
- 
+  Hi there 👋, I'm Scorpion!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
-<h3 align="center">Nguyen Minh Thong</h3>
-<h3 align="center">Student at STU university</h3>
 
-
--------------------------
-
-* 🌍  I'm based in Đăk Nông
-* ✉️  You can contact me at [minhthongnt2610@gmail.com](mailto:minhthongnt2610@gmail.com)
-
-### Skills
-
-
-<p align="mid">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+  font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=
+  I'm+a+student+at+SaiGon+Technology+University%F0%9F%93%9A;
+  I+love+coding+%F0%9F%92%BB;
+  Always+learning+new+things+%F0%9F%92%AF" />
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/https://discord.gg/CRRF5PpC" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://www.bing.com/images/search?view=detailV2&ccid=FiFASn1%2b&id=0F0432DCEE13E0D5A2E8D4F9DBA3E96AA5AE3253&thid=OIP.FiFASn1-AVyY6FuWH-vfrQHaHa&mediaurl=https%3a%2f%2fbestsecuritysearch.com%2fwp-content%2fuploads%2f2016%2f10%2fdiscord-logo-bss.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1621404a7d7e015c98e85b961febdfad%3frik%3dUzKupWrpo9v51A%26pid%3dImgRaw%26r%3d0&exph=1600&expw=1600&q=icon+discord&simid=608055348351036170&FORM=IRPRST&ck=E1F1D32E08B518D75E0D557FD8393DC4&selectedIndex=6&ajaxhist=0&ajaxserp=0)" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-        </picture>
-    </a> <a href="https://www.facebook.com/thongnt22" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://www.bing.com/images/search?view=detailV2&ccid=hGaetDAQ&id=DD699378F075B807EE092502174EC2CD724E4116&thid=OIP.hGaetDAQWapgIJbIOhPhXwHaHa&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-S8HTBQqmfcs%2fXN0ACIRD9PI%2fAAAAAAAAAlo%2fFLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw%2fs1600%2ff_logo_RGB-Blue_1024.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.84669eb4301059aa602096c83a13e15f%3frik%3dFkFOcs3CThcCJQ%26pid%3dImgRaw%26r%3d0&exph=1600&expw=1600&q=icon+facebook&simid=607990361219225695&FORM=IRPRST&ck=35408430E05F9A5CCF02616307102D6D&selectedIndex=0&ajaxhist=0&ajaxserp=0)" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-        </picture>
-    </a> <a href="https://www.github.com/minhthongnt2610" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a></p>
+ 🌐 Connect with me
 
-### Badges
+<p align="center">
+  <a href="https://www.facebook.com/thongnt22" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/thong-nguyen-minh-1b053b353/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:minhthongnt2610@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/minhthongnt2610" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<b>My GitHub Status</b>
+
+🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,git,firebase,sqlite" />
+</p>
+
+📊 GitHub Stats & Contribution Snake
 
 <table style="width:100%;">
     <tr>
@@ -55,3 +54,6 @@
         </td>
     </tr>
 </table>
+
+
+
