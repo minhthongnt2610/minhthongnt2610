@@ -33,7 +33,7 @@
 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,git,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" />
 </p>
 
 📊 GitHub Stats & Contribution Snake
