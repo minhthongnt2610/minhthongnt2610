@@ -42,7 +42,7 @@
     <tr>
         <td style="width:70%;">
             <a href="http://www.github.com/minhthongnt2610"><img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=a855f7&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="minhthongnt2610's GitHub stats" /></a>
-            <a href="http://www.github.com/minhthongnt2610"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&stroke=a855f7&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=a855f7&currStreakLabel=14b8a6&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
         </td>
         <td style="width:30%;">
             <p align="center">
