@@ -40,7 +40,7 @@
 <!-- Github Stats -->
 📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<table align="center" width="100%">
+<table align="center" width="100%" >
   <tr>
     <td width="70%">
       <p align="center">
@@ -50,14 +50,7 @@
       <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" />
       </p>
-<!--       <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=minhthongnt2610&theme=redical" alt="GitHub Activity Graph" />
-      </p> -->
-    </td>
-    <td width="30%">
-      <p align="center">
-        <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev gif" width="100%" />
-      </p>
-    </td>
+
+   
   </tr>
 </table>
