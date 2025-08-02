@@ -13,7 +13,7 @@
 </p>
 
 <!-- Kết nối mạng xã hội -->
-🌐 Connect with me
+🌐 Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 
 <p align="center">
   <a href="https://www.facebook.com/thongnt22" target="_blank">
@@ -31,7 +31,7 @@
 </p>
 
 <!-- Tech Stack -->
-🧰 Tech Stack
+🧰 Tech Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" alt="Tech Stack" />
