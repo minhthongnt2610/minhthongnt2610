@@ -50,9 +50,9 @@
       <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" />
       </p>
-      <p align="center">
+<!--       <p align="center">
         <img src="https://activity-graph.herokuapp.com/graph?username=minhthongnt2610&theme=redical" alt="GitHub Activity Graph" />
-      </p>
+      </p> -->
     </td>
     <td width="30%">
       <p align="center">
