@@ -13,7 +13,7 @@
 </p>
 
 <!-- Kết nối mạng xã hội -->
-<h2 align="center">🌐 Connect with me</h2>
+🌐 Connect with me
 
 <p align="center">
   <a href="https://www.facebook.com/thongnt22" target="_blank">
@@ -31,14 +31,14 @@
 </p>
 
 <!-- Tech Stack -->
-<h2 align="center">🧰 Tech Stack</h2>
+🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" alt="Tech Stack" />
 </p>
 
 <!-- Github Stats -->
-<h2 align="center">📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <table align="center" width="100%">
   <tr>
