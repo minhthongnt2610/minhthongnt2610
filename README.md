@@ -1,18 +1,19 @@
+<!-- Banner động -->
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]()
 
+<!-- Tiêu đề chào -->
 <h1 align="center">
   Hi there 👋, I'm Thong Nguyen Minh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
-
+<!-- Typing hiệu ứng -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=I'm+a+student+at+SaiGon+Technology+University%F0%9F%93%9A;I+love+coding+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%AF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=I'm+a+student+at+SaiGon+Technology+University%F0%9F%93%9A;I+love+coding+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
-
-
- 🌐 Connect with me
+<!-- Kết nối mạng xã hội -->
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/thongnt22" target="_blank">
@@ -29,38 +30,34 @@
   </a>
 </p>
 
-
-🧰 Tech Stack
+<!-- Tech Stack -->
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" alt="Tech Stack" />
 </p>
 
-📊 My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<!-- Github Stats -->
+<h2 align="center">📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
-<table style="width:100%;">
-    <tr>
-        <td style="width:70%;">
-           <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=minhthongnt2610&theme=redical">
-</p> 
-
-      <td style="width:30%;">
-            <p align="center">
-                <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnMGMzZXZxNjQ5aThyYmdzN3B6Ync1bmRveXh5ZzVwMm53dXpnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev" width="100%" />
-            </p>
-        </td>
-    </tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="70%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Langs" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" />
+      </p>
+      <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=minhthongnt2610&theme=redical" alt="GitHub Activity Graph" />
+      </p>
+    </td>
+    <td width="30%">
+      <p align="center">
+        <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev gif" width="100%" />
+      </p>
+    </td>
+  </tr>
 </table>
-
-
-
