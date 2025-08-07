@@ -48,7 +48,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Langs" />
       </p>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" />
+<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" /> -->
       </p>
 
    
