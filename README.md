@@ -40,7 +40,7 @@
 <!-- Github Stats -->
 📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<table align="center" width="100%" >
+<table align="center" width="100%">
   <tr>
     <td width="70%">
       <p align="center">
@@ -48,9 +48,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Langs" />
       </p>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhthongnt2610&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
       </p>
-
-   
+    </td>
   </tr>
 </table>
