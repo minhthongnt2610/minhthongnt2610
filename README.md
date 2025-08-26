@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]()
 
-<!-- Tiêu đề chào -->
 <h1 align="center">
   Hi there 👋, I'm Thong Nguyen Minh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
