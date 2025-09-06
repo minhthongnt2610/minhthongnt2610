@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=I'm+a+student+at+SaiGon+Technology+University%F0%9F%93%9A;I+love+coding+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
-<!-- Kết nối mạng xã hội -->
+
 🌐 Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 
 <p align="center">
