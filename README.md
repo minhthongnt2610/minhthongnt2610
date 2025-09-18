@@ -39,8 +39,7 @@
   <tr>
     <td width="70%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Langs" />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=black-ice" alt="GitHub Streak" /></a>
       </p>
       <p align="center">
         <img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
