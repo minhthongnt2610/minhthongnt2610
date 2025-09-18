@@ -39,7 +39,7 @@
   <tr>
     <td width="70%">
       <p align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=black-ice" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical" alt="GitHub Streak" /></a>
       </p>
       <p align="center">
         <img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
