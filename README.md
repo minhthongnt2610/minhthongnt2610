@@ -39,7 +39,7 @@
   <tr>
     <td width="70%">
       <p align="center">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=minhthongnt2610&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
         <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthongnt2610&theme=radical" alt="GitHub Top Languages" /></a>
       </p>
       <p align="center">
