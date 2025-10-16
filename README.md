@@ -47,8 +47,6 @@
         <img src="https://streak-stats.demolab.com?user=minhthongnt2610&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
       </p>
     </td>
-    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
   </tr>
 </table>
 
