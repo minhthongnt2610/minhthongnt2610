@@ -22,7 +22,6 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
 🧰 Tech Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
 
 <p align="center">
