@@ -22,7 +22,6 @@
   </a>
 </p>
 🧰 Tech Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" alt="Tech Stack" />
 </p>
