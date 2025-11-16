@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,java,git,html,css" alt="Tech Stack" />
 </p>
-
 📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <table align="center" width="100%">
