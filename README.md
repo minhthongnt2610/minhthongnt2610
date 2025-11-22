@@ -1,5 +1,4 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/13622306/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM3OTMyMDYsIm5iZiI6MTc2Mzc5MjkwNiwicGF0aCI6Ii8xMzYyMjMwNi81MDczMzEyMjMtNTRkYzFmN2EtZjMyNy00M2FiLWFlOWMtNThjNzQyMWVlZTM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIyVDA2MjgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5ODFjOGZlNTNmZTg1NjhmZmJiMzNhODY3MjA5OTRjNGIzMzY2ZjRhNTE0MjNkYTUyOWNiZDczOGYwMDQ3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mPqPpMuvFD3R5CrLJFL2kvYGYRWE04ixoKH4Nl4DKCA)]() 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]() 
 <h1 align="center">
   Hi there 👋, I'm Thong Nguyen Minh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
