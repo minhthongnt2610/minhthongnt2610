@@ -1,5 +1,4 @@
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
 <h1 align="center">
   Hi there 👋, I'm Thong Nguyen Minh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
